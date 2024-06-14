@@ -21,7 +21,7 @@ Help finding all videos you want to search in Bilibili
   up_uid: 387636363
   
   match_pattern: (雫るる)|(雫露露)|(雫lulu)
-  ```yaml
+  ```
 
 ## 运行
 运行main.py文件，命令行参数在代码内有介绍
